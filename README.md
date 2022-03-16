@@ -1,4 +1,4 @@
-# Instagram Home Page Clone
+# Instagram Home Page Clone 📷
 
 <div>
 <img src="./img/favicon-instagram.png" alt="Instagram logo">
