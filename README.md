@@ -19,6 +19,6 @@ Welcome! This is my awn Instagram home page clone.
 * GitHub
 
 ## ⚠️ Attention ⚠️ 
-👷🏻‍♂️🚧 Project in development...
+👷🏻‍♂️🚧 Work in progress...
 
 
