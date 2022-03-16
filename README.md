@@ -7,7 +7,7 @@
 ## 📄 Resume:
 Welcome! This is my awn Instagram home page clone.
 
-## 👨🏻‍💻 Technical Information
+## 👨🏻‍💻 Technical Information:
 📚 Languages:
 
 * HTML5
