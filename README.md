@@ -4,16 +4,16 @@
 <img src="./img/favicon-instagram.png" alt="Instagram logo">
 </div>
 
-## Resume:
-Welcome to my awn Instagram home page clone.
+## 📄 Resume:
+Welcome! This is my awn Instagram home page clone.
 
-## Technical Information
-Languages:
+## 👨🏻‍💻 Technical Information
+📚 Languages:
 
 * HTML5
 * CSS
 
-Technologies:
+🚀 Technologies:
 
 * Git
 * GitHub
