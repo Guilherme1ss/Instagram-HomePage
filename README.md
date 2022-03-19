@@ -1,7 +1,7 @@
 # Instagram Home Page Clone 📷
 
 <div>
-<img src="./img/favicon-instagram.png" alt="Instagram logo">
+<img src="./assets/img/favicon-instagram.png" alt="Instagram logo">
 </div>
 
 ## 📄 Resume:
