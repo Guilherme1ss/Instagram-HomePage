@@ -150,6 +150,9 @@ body {
     background-image: url(./img/googleplay-button.png);
 }
 
+.links {
+    list-style: none;
+}
 
 .links:nth-child(1) {
     width: 115vh;
